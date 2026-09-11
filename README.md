@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Working on something private..
+
+Project Manager in Navra - An AI assisted buddy for hosting hangouts!
+
 <!--
 **HollowedMumbler/HollowedMumbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
