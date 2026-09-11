@@ -1,8 +1,8 @@
-## Hi there 👋
-
 Working on something private..
 
-Project Manager in Navra - An AI assisted buddy for hosting hangouts!
+Project Manager in Navra - A startup for an AI assisted buddy for hosting hangouts!
+
+Looking for opportunities to grow. 
 
 <!--
 **HollowedMumbler/HollowedMumbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
